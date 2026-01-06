@@ -3,11 +3,11 @@
     "id":"dev.nanochip.vpm-listing",
     "url":"https://xNanochip.github.io/VPM-Package-Listing/index.json",
     "author":{
-        "email":"xnanochip@hotmail.com",
+        "email":"",
         "name":"Nanochip",
         "url":"https://github.com/xNanochip"
     },
-    "description":"For use with the VRChat Creator Companion",
+    "description":"For use with the VRChat Creator Companion or Alcom",
     "infoLink":{
         "url":"https://x.com/xNanochip",
         "text":"Twitter"
