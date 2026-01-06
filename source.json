@@ -1,20 +1,15 @@
 {
-    "name":"JustSleightly's VPM Packages",
-    "id":"dev.sleightly.vpm-listing",
-    "url":"https://justsleightly.github.io/VPM-Package-Listing-Template/index.json",
+    "name":"Nanochip's VPM Packages",
+    "id":"dev.nanochip.vpm-listing",
+    "url":"https://xNanochip.github.io/VPM-Package-Listing/index.json",
     "author":{
-        "email":"just@sleightly.dev",
-        "name":"JustSleightly",
-        "url":"https://just.sleightly.dev"
+        "email":"xnanochip@hotmail.com",
+        "name":"Nanochip"
     },
     "description":"For use with the VRChat Creator Companion",
-    "infoLink":{
-        "url":"https://discord.sleightly.dev",
-        "text":"Discord"
-    },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "xNanochip/VRC-Avatar-Limb-Scaling"
     ],
     "packages":[]
 }
