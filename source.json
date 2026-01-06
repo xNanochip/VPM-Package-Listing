@@ -4,9 +4,14 @@
     "url":"https://xNanochip.github.io/VPM-Package-Listing/index.json",
     "author":{
         "email":"xnanochip@hotmail.com",
-        "name":"xNanochip"
+        "name":"Nanochip",
+        "url":"https://github.com/xNanochip"
     },
     "description":"For use with the VRChat Creator Companion",
+    "infoLink":{
+        "url":"https://x.com/xNanochip",
+        "text":"Twitter"
+    },
     "bannerUrl":"banner.png",
     "githubRepos":[
         "xNanochip/VRC-Avatar-Limb-Scaling"
